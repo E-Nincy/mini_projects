@@ -1,0 +1,2 @@
+File type counts on your Desktop:
+{'.gdoc': 3, '.ini': 1, '.lnk': 6, '.pdf': 5, '.py': 3, '.txt': 2}
