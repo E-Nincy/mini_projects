@@ -26,5 +26,3 @@
     # Process input and move to the next room or execute action
 
 # End the game if player quits or dies
-
-

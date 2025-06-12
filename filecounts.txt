@@ -1,2 +1,12 @@
 File type counts on your Desktop:
-{'.gdoc': 3, '.ini': 1, '.lnk': 6, '.pdf': 5, '.py': 3, '.txt': 2}
+{'.csv': 1,
+ '.docx': 5,
+ '.gdoc': 3,
+ '.heic': 1,
+ '.ini': 1,
+ '.jpg': 2,
+ '.lnk': 5,
+ '.mov': 1,
+ '.odt': 2,
+ '.pdf': 4,
+ '.png': 3}

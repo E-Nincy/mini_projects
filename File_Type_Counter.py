@@ -1,11 +1,11 @@
 # File Type Counter
 
 from pathlib import Path
-from pprint import pprint
+from pprint import pprint, pformat
 import shutil
 
 # Locate  Desktop
-desktop_path = Path.home() / "Escritorio"
+desktop_path = Path.home() / "OneDrive" / "Escritorio"
 
 # Get all files on the Desktop (not folders)
 files = [file for file in desktop_path.iterdir() if file.is_file()]
